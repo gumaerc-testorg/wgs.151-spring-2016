@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 1d31ff9a-2057-8b3e-61d4-bdbbd0ef00e0
 ---
@@ -53,20 +55,6 @@ WGS.151 can be applied toward a [Bachelor of Science in Humanities and Science](
 ### Offered
 
 Every spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A well-lit, medium-sized carpeted classroom with five rows of green moveable furniture tablet armchairs.]({{< resource_file a1e7df92-0b66-7db4-fad1-c89df0a93b5c >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    This course was taught in a medium-sized classroom equipped with two chalkboards and a LCD video projector.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

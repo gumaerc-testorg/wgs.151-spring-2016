@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 1d31ff9a-2057-8b3e-61d4-bdbbd0ef00e0
 title: ' Students'' Final Projects'
 uid: 82a3d45f-6363-0646-3a11-29f1ef81fd7e

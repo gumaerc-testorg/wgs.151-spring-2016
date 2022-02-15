@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 1d31ff9a-2057-8b3e-61d4-bdbbd0ef00e0
 title: Teaching Content Rooted in Real-World Contexts
 uid: 373825c5-85b2-148c-9c10-6b519431c70d

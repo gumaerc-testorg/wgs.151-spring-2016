@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 1d31ff9a-2057-8b3e-61d4-bdbbd0ef00e0
 title: Using Teaching Techniques to Engage Students
 uid: bc6d4057-fa72-8ef9-8ebb-a6e7d5f41704
