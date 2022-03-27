@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f58909f4-458b-f2ef-9f95-3e6179b19b2f
 resourcetype: Document
 title: 'WGS.151S15 Gender, Health, and Society: Assignments: Vaccinations'
 uid: b3fda570-fc47-ca03-323c-9c771b8589da

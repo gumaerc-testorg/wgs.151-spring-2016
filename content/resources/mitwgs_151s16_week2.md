@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 829760a4-41f0-97c1-19f5-998b59d4a918
 resourcetype: Document
 title: 'WGS.151S16 Gender, Health, and Society: Lecture Slides - Cardiovascular Disease'
 uid: bf0851f9-c1cd-7dff-1ced-d509f3974bbc
