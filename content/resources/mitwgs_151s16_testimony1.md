@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/wgs-151-gender-health-and-society-spring-2016/ef231bccef3d31632b0553a680ab04ff_MITWGS_151S16_Testimony1.pdf
+file: /courses/wgs-151-gender-health-and-society-spring-2016/ef231bccef3d31632b0553a680ab04ff_MITWGS_151S16_Testimony1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

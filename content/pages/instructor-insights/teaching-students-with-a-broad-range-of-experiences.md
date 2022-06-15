@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: "In this section, Dr. Brittany Charlton shares her insights about teaching\
+  \ students with a broad range of background experiences. She shares a strategy for\
+  \ eliciting students\u2019 relevant experiences and describes how she uses this\
+  \ information to facilitate classroom discussions."
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/wgs-151-gender-health-and-society-spring-2016/02e6862b4d3693271e19880fc0d80637_MITWGS_151S16_Week5.pdf
+file: /courses/wgs-151-gender-health-and-society-spring-2016/02e6862b4d3693271e19880fc0d80637_MITWGS_151S16_Week5.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

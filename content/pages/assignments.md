@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments and examples
+  of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -18,9 +20,9 @@ For weeks 2–4 and 6–10, students will submit _brief_, written reading reflec
 
 _Student Examples_
 
-[Reading Reflections 1 (PDF)]({{< baseurl >}}/resources/mitwgs_151s16_reflection1)
+{{% resource_link 574135e9-ed63-d2a3-93a0-73dc8f0f88c2 "Reading Reflections 1 (PDF)" %}}
 
-[Reading Reflections 2 (PDF)]({{< baseurl >}}/resources/mitwgs_151s16_reflection2)
+{{% resource_link 286688e9-9d1a-cd66-b100-e9dfe7755b32 "Reading Reflections 2 (PDF)" %}}
 
 Discussion Leaders
 ------------------
@@ -32,28 +34,28 @@ Testimony / Opinion
 
 In preparation for an in-class mock state assembly meeting on human papilloma virus (HPV) vaccinations, students will be assigned a role to play and subsequently prepare **either** a 1.5-page written testimony to deliver (if a witness) **or** a 1.5-page written opinion (if an assembly member).
 
-["To Vaccinate or Not to Vaccinate" Homework Assignment (PDF)]({{< baseurl >}}/resources/mitwgs_151s16_vaccinations)
+{{% resource_link b3fda570-fc47-ca03-323c-9c771b8589da "\"To Vaccinate or Not to Vaccinate\" Homework Assignment (PDF)" %}}
 
 _Student Examples_
 
-[Daniel Hart's Testimony (PDF)]({{< baseurl >}}/resources/mitwgs_151s16_testimony1)
+{{% resource_link ef231bcc-ef3d-3163-2b05-53a680ab04ff "Daniel Hart's Testimony (PDF)" %}}
 
-[Samuel Wilson's Opinion (PDF)]({{< baseurl >}}/resources/mitwgs_151s16_opinion1) (Courtesy of Margaret Walker.)
+{{% resource_link 66c8330a-d6b2-03cb-0b34-e28d200cf3f4 "Samuel Wilson's Opinion (PDF)" %}} (Courtesy of Margaret Walker.)
 
 Final Project
 -------------
 
 Students will apply the research methods learned in class and integrate these with newly acquired substantive knowledge to create a research proposal (see appended description). Any scientific question that is of interest and related to gender and health may be chosen. Each student will then create a 2-page write-up and share their research proposal in class as an oral presentation.
 
-[Final Project Proposal (PDF)]({{< baseurl >}}/resources/mitwgs_151s16_proposal)
+{{% resource_link 43724ff4-3422-48e2-a3bf-690435a4e197 "Final Project Proposal (PDF)" %}}
 
-[Final Project (PDF)]({{< baseurl >}}/resources/mitwgs_151s16_finalproject)
+{{% resource_link 0932f45b-6c1f-c3d1-8b07-690eefa29c48 "Final Project (PDF)" %}}
 
 _Student Examples_
 
-["The Effects of LGBTQ+ Inclusive Sex Education on Mental Health Outcomes of LGBTQ+ Youth." (PDF)]({{< baseurl >}}/resources/mitwgs_151s16_lgbtq), [(Proposal) (PDF)]({{< baseurl >}}/resources/mitwgs_151s16_lgbtqprop)
+{{% resource_link ca785e9c-ab59-8a1e-aea8-8c06154d5c7d "\"The Effects of LGBTQ+ Inclusive Sex Education on Mental Health Outcomes of LGBTQ+ Youth.\" (PDF)" %}}, {{% resource_link fd06476c-ecb9-945f-0583-bc73062a3799 "(Proposal) (PDF)" %}}
 
-["Prospective Cohort Study to Assess Long-Term Effect of Puberty-Suppressing Medication on Bone Health." (PDF)]({{< baseurl >}}/resources/mitwgs_151s16_cohort), [(Proposal) (PDF)]({{< baseurl >}}/resources/mitwgs_151s16_cohrtpropsal)
+{{% resource_link 57fdf0d3-9793-3e74-82e4-f3da797a94b7 "\"Prospective Cohort Study to Assess Long-Term Effect of Puberty-Suppressing Medication on Bone Health.\" (PDF)" %}}, {{% resource_link f094b200-a2fb-0fd6-072b-759d8bc03425 "(Proposal) (PDF)" %}}
 
 Assignment Format
 -----------------

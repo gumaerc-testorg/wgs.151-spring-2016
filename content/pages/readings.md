@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by weekly session and
+  topic.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

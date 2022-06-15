@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: "In this section, Dr. Brittany Charlton shares her insights about teaching\
+  \ content rooted in real-world contexts, including how students\u2019 lived experiences\
+  \ in the health field both help to make the content more concrete and can present\
+  \ challenges when students lives have been impacted by the topics discussed in class."
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, assignment due dates,
+  and final project presentations.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -81,7 +83,7 @@ Sexually Transmitted Infections
 
 _Note: During this class, there will be a mock state assembly meeting on Human Papillomavirus (HPV) Vaccinations, in which students will be assigned the role of witness or assembly member._
 
-_See "To Vaccinate or Not to Vaccinate: The Story of Hamilton, Columbia" in the [Assignments]({{< baseurl >}}/pages/assignments) Section for further detail._
+_See "To Vaccinate or Not to Vaccinate: The Story of Hamilton, Columbia" in the {{% resource_link f58909f4-458b-f2ef-9f95-3e6179b19b2f "Assignments" %}} Section for further detail._
 
 
 {{< tdclose >}}

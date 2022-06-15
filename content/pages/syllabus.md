@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, objectives, grading, texts, academic integrity,
+  and the Writing and Communication Center at MIT.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -101,7 +104,7 @@ Final Project Presentation
 
 {{< tableclose >}}
 
-For more information on the activities listed in the table above, please see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For more information on the activities listed in the table above, please see the {{% resource_link f58909f4-458b-f2ef-9f95-3e6179b19b2f "Assignments" %}} section.
 
 Texts
 -----
@@ -110,7 +113,7 @@ No full texts are required for this course. However, the following text has many
 
 Fausto-Sterling, Anne. _Sex / Gender: Biology in a Social World_. Routledge, 2012. ISBN: 9780415881463. \[Preview with [Google Books](http://books.google.com/books?id=AX4JepiTRy4C&printsec=frontcover)\]
 
-Additional readings can be found in the table of the [Readings]({{< baseurl >}}/pages/readings) section.
+Additional readings can be found in the table of the {{% resource_link bffdd2cd-73f3-c9cb-b06d-53dccca75d21 "Readings" %}} section.
 
 Academic Integrity
 ------------------
