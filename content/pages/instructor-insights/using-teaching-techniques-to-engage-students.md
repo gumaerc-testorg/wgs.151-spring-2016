@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Dr. Brittany Charlton shares teaching techniques she
+  uses to engage students during class sessions.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -9,10 +12,9 @@ parent_uid: 1d31ff9a-2057-8b3e-61d4-bdbbd0ef00e0
 title: Using Teaching Techniques to Engage Students
 uid: bc6d4057-fa72-8ef9-8ebb-a6e7d5f41704
 ---
-
 _In this section, Dr. Brittany Charlton shares teaching techniques she uses to engage students during class sessions._
 
-I draw on various teaching techniques to engage students. For example, I use the seminal work of David Kolb (1974) to ensure students work through the entire “cycle of learning.” This starts with “concrete experiences,” which provide a basis for “reflective observations.” These observations and reflections are assimilated and distilled into “abstract concepts” that can be “actively tested.” I also use techniques outlined by Jo Handelsman et al. (2006) in _Scientific Teaching_. 
+I draw on various teaching techniques to engage students. For example, I use the seminal work of David Kolb (1974) to ensure students work through the entire “cycle of learning.” This starts with “concrete experiences,” which provide a basis for “reflective observations.” These observations and reflections are assimilated and distilled into “abstract concepts” that can be “actively tested.” I also use techniques outlined by Jo Handelsman et al. (2006) in _Scientific Teaching_.
 
 As an example of some of these techniques, I begin each session by arranging the classroom in a large semi-circle to encourage discussion and easier movement into smaller groups, as needed. When students arrive, they come to the front of the room to pick up their pre-printed nametag and any in-class materials that we’ll use that day. The nametags encourage students to use each other’s names throughout the session and this brief interaction with me over picking up materials at the front of the room allows us to connect with one another individually.
 
@@ -28,6 +30,6 @@ Finally, I end each session by having students anonymously write any final thoug
 
 ### References
 
-Handlesman, Jo., Sarah Miller, and Christine Pfund. _Scientific Teaching._ W. H. Freeman, 2006. ISBN: 978-1429201889
+Handlesman, Jo, Sarah Miller, and Christine Pfund. _Scientific Teaching._ W. H. Freeman, 2006. ISBN: 978-1429201889
 
 Kolb, David A. and Ronald E. Fry. _Toward an Applied Theory of Experiential Learning._ MIT Alfred P. Sloan School of Management, 1974.
