@@ -5,6 +5,7 @@ file: /courses/wgs-151-gender-health-and-society-spring-2016/02e6862b4d3693271e1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection

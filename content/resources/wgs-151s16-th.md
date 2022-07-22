@@ -10,10 +10,10 @@ image_metadata:
   credit: Image courtesy of The 5th Ape on flickr. License CC BY.
   image-alt: A sideview of a woman with an extended stomach.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: wgs-151s16-th.jpg
 uid: 727877b7-f189-ec60-a872-0a9a8b3dbcc3
 ---
 A woman in her final weeks of pregnancy. Image courtesy of The 5th Ape on flickr. License CC BY.
-

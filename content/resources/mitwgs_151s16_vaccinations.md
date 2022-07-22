@@ -5,6 +5,7 @@ file: /courses/wgs-151-gender-health-and-society-spring-2016/b3fda570fc47ca03323
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

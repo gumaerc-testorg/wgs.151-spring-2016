@@ -5,6 +5,7 @@ file: /courses/wgs-151-gender-health-and-society-spring-2016/0932f45b6c1fc3d18b0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'WGS.151S16 Gender, Health, and Society: Assignments: Final Project'
 uid: 0932f45b-6c1f-c3d1-8b07-690eefa29c48
 ---
 This file contains information regarding final project.
-

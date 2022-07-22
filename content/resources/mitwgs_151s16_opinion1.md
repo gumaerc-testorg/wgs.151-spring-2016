@@ -5,6 +5,7 @@ file: /courses/wgs-151-gender-health-and-society-spring-2016/66c8330ad6b203cb0b3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'WGS.151S16 Gender, Health, and Society: Assignments: HPV Student Example
 uid: 66c8330a-d6b2-03cb-0b34-e28d200cf3f4
 ---
 This file contains information regarding samuel wilson's opinion.
-

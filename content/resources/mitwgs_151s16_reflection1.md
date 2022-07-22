@@ -5,6 +5,7 @@ file: /courses/wgs-151-gender-health-and-society-spring-2016/574135e9ed63d2a393a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'WGS.151S16 Gender, Health, and Society: Assignments: Reflection 1'
 uid: 574135e9-ed63-d2a3-93a0-73dc8f0f88c2
 ---
 This file contains information regarding Reading Reflections 1.
-
