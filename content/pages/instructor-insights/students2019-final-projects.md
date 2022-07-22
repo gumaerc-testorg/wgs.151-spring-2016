@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: In this section, Dr. Brittany Charlton shares her insights about the
+  final project in the course. The assignment asks to operationalize the research
+  methods learned in class and to integrate these methods with newly acquired substantive
+  knowledge to create a research proposal exploring a scientific question related
+  to gender and health. Students create a 2-page write-up and share their research
+  proposal as an oral presentation.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 1d31ff9a-2057-8b3e-61d4-bdbbd0ef00e0
 title: ' Students'' Final Projects'
 uid: 82a3d45f-6363-0646-3a11-29f1ef81fd7e

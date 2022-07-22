@@ -1,7 +1,14 @@
 ---
 content_type: page
+description: "In this section, Dr. Brittany Charlton shares her insights about teaching\
+  \ students with a broad range of background experiences. She shares a strategy for\
+  \ eliciting students\u2019 relevant experiences and describes how she uses this\
+  \ information to facilitate classroom discussions."
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 1d31ff9a-2057-8b3e-61d4-bdbbd0ef00e0
 title: Teaching Students with a Broad Range of Experiences
 uid: c1d6316a-ca85-2e30-0a8a-8195ad1525a2
