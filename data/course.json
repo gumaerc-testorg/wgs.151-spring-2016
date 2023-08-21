@@ -46,8 +46,10 @@
   },
   "learning_resource_types": [
     "Lecture Notes",
-    "Written Assignments with Examples"
+    "Written Assignments with Examples",
+    "Instructor Insights"
   ],
-  "site_uid": "498ffba4-90ef-4766-91a4-24913b9f1acb",
+  "site_uid": "dea07370-bcac-4026-9a61-d15ccf5ed5ba",
+  "short_id": "wgs.151-spring-2016",
   "title": "Course Metadata"
 }
