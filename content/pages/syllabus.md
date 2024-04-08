@@ -111,16 +111,16 @@ Texts
 
 No full texts are required for this course. However, the following text has many chapters of required reading:
 
-Fausto-Sterling, Anne. _Sex / Gender: Biology in a Social World_. Routledge, 2012. ISBN: 9780415881463. \[Preview with [Google Books](http://books.google.com/books?id=AX4JepiTRy4C&printsec=frontcover)\]
+Fausto-Sterling, Anne. _Sex / Gender: Biology in a Social World_. Routledge, 2012. ISBN: 9780415881463. \[Preview with {{% resource_link "61a0ce4b-be01-4cd7-89ab-f003fba3ef5b" "Google Books" %}}\]
 
 Additional readings can be found in the table of the {{% resource_link bffdd2cd-73f3-c9cb-b06d-53dccca75d21 "Readings" %}} section.
 
 Academic Integrity
 ------------------
 
-Please ensure you've reviewed [Academic Integrity at MIT: A Handbook for Students](http://integrity.mit.edu/).
+Please ensure you've reviewed {{% resource_link "e85bfed9-e47f-41bd-b341-6609e52ec8e2" "Academic Integrity at MIT: A Handbook for Students" %}}.
 
 Writing and Communication Support
 ---------------------------------
 
-The [Writing and Communication Center at MIT](http://cmsw.mit.edu/writing-and-communication-center/) offers free one-on-one professional advice about all types of writing and oral presentations.
+The {{% resource_link "01310c5b-f7ed-4a85-b8ab-ae9f8684a70f" "Writing and Communication Center at MIT" %}} offers free one-on-one professional advice about all types of writing and oral presentations.
