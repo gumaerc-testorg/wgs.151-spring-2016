@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding (Proposal).
 file: /courses/wgs-151-gender-health-and-society-spring-2016/f094b200a2fb0fd6072b759d8bc03425_MITWGS_151S16_CohrtPropsal.pdf
+file_size: 116585
 file_type: application/pdf
 learning_resource_types:
 - Assignments

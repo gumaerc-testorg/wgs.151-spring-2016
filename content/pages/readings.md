@@ -9,19 +9,19 @@ title: Readings
 uid: bffdd2cd-73f3-c9cb-b06d-53dccca75d21
 ---
 
-\[F\] = Fausto-Sterling, Anne. _Sex / Gender: Biology in a Social World_. Routledge, 2012. ISBN: 9780415881463. \[Preview with {{% resource_link "d4f8624b-f3dc-4f38-82eb-7fe9b2513d82" "Google Books" %}}\]
+\[F\] = Fausto-Sterling, Anne. _Sex / Gender: Biology in a Social World_. Routledge, 2012. ISBN: 9780415881463. \[Preview with [Google Books](http://books.google.com/books?id=BhbJUlZvYwEC&pg=PAfrontcover)\]
 
-\[G\] = Gordis, Leon. _Epidemiology_. 5th ed. Saunders, 2013. ISBN: 9781455737338. \[Preview with {{% resource_link "14502a63-087a-45e5-b602-e1cb46f7aa25" "Google Books" %}}\]
+\[G\] = Gordis, Leon. _Epidemiology_. 5th ed. Saunders, 2013. ISBN: 9781455737338. \[Preview with [Google Books](http://books.google.com/books?id=7YX6AQAAQBAJ&pg=PAfrontcover)\]
 
-\[H\] = Hennekens, Charles H., and Julie E. Buring. _Epidemiology in Medicine_. Little, Brown, and Company, 1987. ISBN: 9780316356367. \[Preview with {{% resource_link "ba4c0dca-8770-4e30-9ad3-69e642464e4a" "Google Books" %}}\]
+\[H\] = Hennekens, Charles H., and Julie E. Buring. _Epidemiology in Medicine_. Little, Brown, and Company, 1987. ISBN: 9780316356367. \[Preview with [Google Books](http://books.google.com/books?id=T3fx6XPm6DIC&pg=PAfrontcover)\]
 
 \[J\] = Jacob, Krista, ed. _Abortion Under Attack: Women on the Challenges Facing Choice_. Seal Press, 2006. ISBN: 9781580051859.
 
 \[JA\] = Jaggar, Alison M. _Just Methods: An Interdisciplinary Feminist Reader_. Routledge, 2008. ISBN: 9781594512049.
 
-\[JO\] = Jordan, Brigitte. _Birth in Four Cultures: A Crosscultural Investigation of Childbirth in Yucatan, Holland, Sweden, and the United States_. 4th ed. Revised and expanded by Robbie Davis-floyd. Waveland Press Incorporated, 1992. ISBN: 9780881337174. \[Preview with {{% resource_link "1e05dd88-6e77-4af6-a8cc-1bcd1870be82" "Google Books" %}}\]
+\[JO\] = Jordan, Brigitte. _Birth in Four Cultures: A Crosscultural Investigation of Childbirth in Yucatan, Holland, Sweden, and the United States_. 4th ed. Revised and expanded by Robbie Davis-floyd. Waveland Press Incorporated, 1992. ISBN: 9780881337174. \[Preview with [Google Books](http://books.google.com/books?id=U4tIAgAAQBAJ&pg=PAfrontcover)\]
 
-\[L\] = Luker, Kristin. _Abortion & the Politics of Motherhood_. University of California Press, 1985. ISBN: 9780520055971. \[Preview with {{% resource_link "7d5a6599-2dbd-4326-bc2e-460d114e9c5d" "Google Books" %}}\]
+\[L\] = Luker, Kristin. _Abortion & the Politics of Motherhood_. University of California Press, 1985. ISBN: 9780520055971. \[Preview with [Google Books](http://books.google.com/books?id=Lrr5aCUg0-IC&pg=PAfrontcover)\]
 
 \[M\] = Martin, Emily. _The Woman in the Body: A Cultural Analysis of Reproduction_. Beacon Press, 2001. ISBN: 9780807046456.
 
@@ -55,9 +55,9 @@ Biology, History, and Conceptual Frameworks
 {{< tdopen >}}
 
 
-Doyal, Lesley. "{{% resource_link "de072d8c-540c-4c0a-a2d2-d4c2ea7dea2c" "Sex, Gender, and Health: The Need for a New Approach" %}}." _British Medical Journal_ 323, no. 7320 (2001): 1061–63.
+Doyal, Lesley. "[Sex, Gender, and Health: The Need for a New Approach](http://dx.doi.org/10.1136/bmj.323.7320.1061)." _British Medical Journal_ 323, no. 7320 (2001): 1061–63.
 
-Krieger, N. "{{% resource_link "6f90434b-fb92-4ad6-973f-ea7f4e62b93d" "A Glossary for Social Epidemiology" %}}." _Journal of Epidemiology & Community Health_ 55, no. 10 (2001): 693–700.
+Krieger, N. "[A Glossary for Social Epidemiology](http://dx.doi.org/10.1136/jech.55.10.693)." _Journal of Epidemiology & Community Health_ 55, no. 10 (2001): 693–700.
 
 \[F\] Chapter 1: A Genderless Future?
 
@@ -85,13 +85,13 @@ Cardiovascular Disease and Hormone Therapy
 {{< tdopen >}}
 
 
-Johnson, Paula A. MD, MPH, and Rachael S. Fulp, MPH. "{{% resource_link "21ed596d-bc6a-47ef-b712-877a100e6ba9" "Racial and Ethnic Disparities in Coronary Heart Disease in Women; Prevention, Treatment, and Needed Interventions" %}}." _Women's Health Issues_ 12, no. 5 (2002): 252–71.
+Johnson, Paula A. MD, MPH, and Rachael S. Fulp, MPH. "[Racial and Ethnic Disparities in Coronary Heart Disease in Women; Prevention, Treatment, and Needed Interventions](http://dx.doi.org/10.1016/S1049-3867(02)00148-2)." _Women's Health Issues_ 12, no. 5 (2002): 252–71.
 
 ### Skim
 
-Grodstein, Francine, ScD, JoAnn E. Manson, MD, et al. "{{% resource_link "c7e27637-0995-4e09-ac71-e63d3349237f" "A Prospective, Observational Study Of Postmenopausal Hormone Therapy and Primary Prevention of Cardiovascular Disease" %}}." _Annals of Internal Medicine_ 133, no. 12 (2000): 933–41.
+Grodstein, Francine, ScD, JoAnn E. Manson, MD, et al. "[A Prospective, Observational Study Of Postmenopausal Hormone Therapy and Primary Prevention of Cardiovascular Disease](http://dx.doi.org/10.7326/0003-4819-133-12-200012190-00008)." _Annals of Internal Medicine_ 133, no. 12 (2000): 933–41.
 
-Writing Group for the Women's Health Investigators. "{{% resource_link "5cdfb0fb-e2fe-41d6-8cc5-7724d49f77f6" "Risks And Benefits of Estrogen Plus Progestin in Healthy Postmenopausal Women" %}}." _The Journal of the American Medical Association_ 288, no. 3 (2002): 321–33.
+Writing Group for the Women's Health Investigators. "[Risks And Benefits of Estrogen Plus Progestin in Healthy Postmenopausal Women](http://dx.doi.org/10.1001/jama.288.3.321)." _The Journal of the American Medical Association_ 288, no. 3 (2002): 321–33.
 
 _Optional (further detail on study designs)_
 
@@ -113,7 +113,7 @@ Gender Analysis
 {{< tdopen >}}
 
 
-Krieger, Nancy. "{{% resource_link "2abb791c-e32c-4827-b7ba-a81785537695" "Genders, Sexes, and Health: What Are the Connections—and Why Does It Matter?" %}}" _International Journal of Epidemiology_ 32, no. 4 (2003): 652–57.
+Krieger, Nancy. "[Genders, Sexes, and Health: What Are the Connections—and Why Does It Matter?](http://dx.doi.org/10.1093/ije/dyg156)" _International Journal of Epidemiology_ 32, no. 4 (2003): 652–57.
 
 _Optional (further detail about measures of association)_
 
@@ -151,7 +151,7 @@ Pregnancy and Birth
 
 \[JO\] Chapter 6: The Achievement of Authoritative Knowledge in an American Hospital Birth.
 
-Geronimus, Arline T. "{{% resource_link "6ee302c3-f550-4a26-884d-84d578c816d8" "Black / White Differences in the Relationship of Maternal Age to Birthweight: A Population–Based Test of the Weathering Hypothesis" %}}." _Social Science & Medicine_ 42, no. 4 (1996): 589–97.
+Geronimus, Arline T. "[Black / White Differences in the Relationship of Maternal Age to Birthweight: A Population–Based Test of the Weathering Hypothesis](http://dx.doi.org/10.1016/0277-9536(95)00159-X)." _Social Science & Medicine_ 42, no. 4 (1996): 589–97.
 
 _Optional (further detail on trials)_
 
@@ -171,15 +171,15 @@ Sexually Transmitted Infections
 {{< tdopen >}}
 
 
-Higgins, Jenny A., PhD, MPH, Susie Hoffman, et al. "{{% resource_link "0146c853-dcde-4d53-a2a6-49deb90acc38" "Rethinking Gender, Heterosexual Men, and Women's Vulnerability To HIV / AIDS" %}}." _American Journal of Public Health_ 100, no. 3 (2010): 435–45.
+Higgins, Jenny A., PhD, MPH, Susie Hoffman, et al. "[Rethinking Gender, Heterosexual Men, and Women's Vulnerability To HIV / AIDS](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2820057/)." _American Journal of Public Health_ 100, no. 3 (2010): 435–45.
 
-Fisher, Joslyn W., MD, MPH, and Susan I. Brundage MD, MPH. "{{% resource_link "4f61da57-48c9-4ba8-b8d1-9acdd9148e20" "The Challenge of Eliminating Cervical Cancer in the United States: A Story of Politics, Prudishness, and Prevention" %}}." _Women & Health_ 49, no. 2–3 (2009): 246–61.
+Fisher, Joslyn W., MD, MPH, and Susan I. Brundage MD, MPH. "[The Challenge of Eliminating Cervical Cancer in the United States: A Story of Politics, Prudishness, and Prevention](http://dx.doi.org/10.1080/03630240902915101)." _Women & Health_ 49, no. 2–3 (2009): 246–61.
 
-Haug, Charlotte MD, PhD, MSc. "{{% resource_link "2bf19071-50b1-44ed-bbc4-b519ce40c616" "The Risks and Benefits of HPV Vaccination" %}}." _The Journal of the American Medical Association_ 302, no. 7 (2009): 795–96.
+Haug, Charlotte MD, PhD, MSc. "[The Risks and Benefits of HPV Vaccination](http://dx.doi.org/10.1001/jama.2009.1215)." _The Journal of the American Medical Association_ 302, no. 7 (2009): 795–96.
 
-Adams, M., B. Jasani, et al. "{{% resource_link "60be3d67-28b0-421c-b867-ca1ea91310c2" "Human Papilloma Virus (HPV) Prophylactic Vaccination: Challenges for Public Health and Implications for Screening" %}}." _Vaccine_ 25, no. 16 (2007): 3007–13.
+Adams, M., B. Jasani, et al. "[Human Papilloma Virus (HPV) Prophylactic Vaccination: Challenges for Public Health and Implications for Screening](http://dx.doi.org/10.1016/j.vaccine.2007.01.016)." _Vaccine_ 25, no. 16 (2007): 3007–13.
 
-Vohra, Sameer. "{{% resource_link "a79de6e2-4516-4006-9909-acdeda23436d" "To Vaccinate or Not to Vaccinate: The Story of Hamilton, Columbia" %}}." Harvard T. H. Chan School of Public Health, Harvard University.
+Vohra, Sameer. "[To Vaccinate or Not to Vaccinate: The Story of Hamilton, Columbia](http://caseresources.hsph.harvard.edu/publications/vaccinate-or-not-vaccinate-story-hamilton-columbia)." Harvard T. H. Chan School of Public Health, Harvard University.
 
 
 {{< tdclose >}}
@@ -201,9 +201,9 @@ Abortion
 
 \[J\] Higgins, Jenny. Chapter 2: Sex, Unintended Pregnancy, And Poverty: One Woman's Evolution from 'Choice' to 'Reproductive Justice'.
 
-Rosenfield, Allan, and Deborah Maine. "{{% resource_link "2a19fa1f-192d-45cb-b8b9-57bfc27898f6" "Maternal Morality–A Neglected Tragedy: Where is the M in MCH?" %}}" _The Lancet_ 326, no. 8446 (1985): 83–85.
+Rosenfield, Allan, and Deborah Maine. "[Maternal Morality–A Neglected Tragedy: Where is the M in MCH?](https://pubmed.ncbi.nlm.nih.gov/2861534/)" _The Lancet_ 326, no. 8446 (1985): 83–85.
 
-Starrs, Ann M. "{{% resource_link "ef812aa6-982b-43c4-8817-6bb48d59445f" "Safe Motherhood Initiative: 20 Years and Counting" %}}." _The Lancet_ 368, no. 9542 (2006): 1130–32.
+Starrs, Ann M. "[Safe Motherhood Initiative: 20 Years and Counting](http://dx.doi.org/10.1016/S0140-6736(06)69385-9)." _The Lancet_ 368, no. 9542 (2006): 1130–32.
 
 _Optional (further detail on cohort studies)_
 
@@ -231,7 +231,7 @@ Sexual Orientation
 
 \[F\] Chapter 6: Thinking About Homosexuality.
 
-Young, Rebecca M., PhD, and Ilan H. Meyer, PhD. "{{% resource_link "e1305323-968a-4ab5-bc9f-19ea9e831588" "The Trouble with 'MSM' And 'WSW': Erasure of the Sexual–Minority Person in Public Health Discourse" %}}." _American Journal of Public Health_ 95, no. 7 (2005): 1144–49.
+Young, Rebecca M., PhD, and Ilan H. Meyer, PhD. "[The Trouble with 'MSM' And 'WSW': Erasure of the Sexual–Minority Person in Public Health Discourse](https://ajph.aphapublications.org/doi/10.2105/AJPH.2004.046714)." _American Journal of Public Health_ 95, no. 7 (2005): 1144–49.
 
 
 {{< tdclose >}}
@@ -251,9 +251,9 @@ Gender Identity and Expression
 
 \[F\] Chapter 5: Am I a Boy or a Girl?–The Emergence of Gender Identity.
 
-Fausto–Sterling, Anne. "{{% resource_link "2fa01753-d3ff-4194-a026-04afde037e84" "The Five Sexes, Revisited" %}}." _The Sciences_ 40, no. 4 (2000): 19–23.
+Fausto–Sterling, Anne. "[The Five Sexes, Revisited](http://dx.doi.org/10.1002/j.2326-1951.2000.tb03504.x)." _The Sciences_ 40, no. 4 (2000): 19–23.
 
-Moynihan, Clare. "{{% resource_link "592b9fcc-116a-4ffc-9487-74fdfb5b99ac" "Theories in Health Care and Research: Theories of Masculinity" %}}." _British Medical Journal_ 317, no. 7165 (1998): 1072–75.
+Moynihan, Clare. "[Theories in Health Care and Research: Theories of Masculinity](http://dx.doi.org/10.1136/bmj.317.7165.1072)." _British Medical Journal_ 317, no. 7165 (1998): 1072–75.
 
 _Optional (further detail about case-control studies)_
 
@@ -301,13 +301,13 @@ Mental Health and Sex–Based Research
 
 \[F\] Chapter 10: Epilogue – The Future of Gender (And Sex).
 
-Richardson, Sarah S. "{{% resource_link "052dac57-9602-4421-835a-ad414a893b5f" "Sexing the X: How the X Became the 'Female Chromosome" %}}." _Signs: Journal of Women in Culture and Society_ 37, no. 4 (2012): 909–33.
+Richardson, Sarah S. "[Sexing the X: How the X Became the 'Female Chromosome](http://dx.doi.org/10.1086/664477)." _Signs: Journal of Women in Culture and Society_ 37, no. 4 (2012): 909–33.
 
-Saltonstall, Robin. "{{% resource_link "9979389b-bc48-4271-9fc1-eb8ad7f6fcd9" "Healthy Bodies, Social Bodies: Men's and Women's Concepts and Practices of Health In Everyday Life" %}}." _Social Science & Medicine_ 36, no. 1 (1993): 7–14.
+Saltonstall, Robin. "[Healthy Bodies, Social Bodies: Men's and Women's Concepts and Practices of Health In Everyday Life](http://dx.doi.org/10.1016/0277-9536(93)90300-S)." _Social Science & Medicine_ 36, no. 1 (1993): 7–14.
 
-Cayleff, Susan E. "{{% resource_link "bcd8652d-84ad-498b-bb9b-5e778267ec6a" "'Prisoners Of their Own Feebleness': Women, Nerves and Western Medicine—A Historical Overview" %}}." _Social Science & Medicine_ 26, no. 12 (1988): 1199–208.
+Cayleff, Susan E. "['Prisoners Of their Own Feebleness': Women, Nerves and Western Medicine—A Historical Overview](http://dx.doi.org/10.1016/0277-9536(88)90152-9)." _Social Science & Medicine_ 26, no. 12 (1988): 1199–208.
 
-Zita, Jacquelyn N. "{{% resource_link "d8e4ba39-47ce-49c6-a419-4e669fc6a75a" "The Premenstrual Syndrome: 'Dis–easing' the Female Cycle" %}}." _Hypatia_ 3, no. 1 (1988): 77–99.
+Zita, Jacquelyn N. "[The Premenstrual Syndrome: 'Dis–easing' the Female Cycle](http://dx.doi.org/10.1111/j.1527-2001.1988.tb00057.x)." _Hypatia_ 3, no. 1 (1988): 77–99.
 
 _Optional_
 
