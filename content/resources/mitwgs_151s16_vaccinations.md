@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/wgs-151-gender-health-and-society-spring-2016/b3fda570fc47ca03323c9c771b8589da_MITWGS_151S16_Vaccinations.pdf
+file_size: 197015
 file_type: application/pdf
 learning_resource_types:
 - Assignments
