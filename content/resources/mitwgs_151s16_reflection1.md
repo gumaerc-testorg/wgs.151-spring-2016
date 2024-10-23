@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding Reading Reflections 1.
-file: /courses/wgs-151-gender-health-and-society-spring-2016/574135e9ed63d2a393a073dc8f0f88c2_MITWGS_151S16_Reflection1.pdf
+file: /ol-ocw-studio-app/courses/wgs-151-gender-health-and-society-spring-2016/574135e9ed63d2a393a073dc8f0f88c2_MITWGS_151S16_Reflection1.pdf
 file_size: 107598
 file_type: application/pdf
 learning_resource_types:
