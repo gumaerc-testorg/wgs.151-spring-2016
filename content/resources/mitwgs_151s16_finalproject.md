@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding final project.
-file: /courses/wgs-151-gender-health-and-society-spring-2016/0932f45b6c1fc3d18b07690eefa29c48_MITWGS_151S16_Finalproject.pdf
+file: /ol-ocw-studio-app/courses/wgs-151-gender-health-and-society-spring-2016/0932f45b6c1fc3d18b07690eefa29c48_MITWGS_151S16_Finalproject.pdf
 file_size: 645674
 file_type: application/pdf
 learning_resource_types:
