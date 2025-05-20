@@ -2,7 +2,7 @@
 content_type: resource
 description: A woman in her final weeks of pregnancy. Image courtesy of The 5th Ape
   on flickr. License CC BY.
-file: /ol-ocw-studio-app/courses/wgs-151-gender-health-and-society-spring-2016/727877b7f189ec60a8720a9a8b3dbcc3_wgs-151s16-th.jpg
+file: /courses/wgs-151-gender-health-and-society-spring-2016/727877b7f189ec60a8720a9a8b3dbcc3_wgs-151s16-th.jpg
 file_size: 4192
 file_type: image/jpeg
 image_metadata:
