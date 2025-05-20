@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding Proposal.
-file: /ol-ocw-studio-app/courses/wgs-151-gender-health-and-society-spring-2016/fd06476cecb9945f0583bc73062a3799_MITWGS_151S16_LGBTQProp.pdf
+file: /courses/wgs-151-gender-health-and-society-spring-2016/fd06476cecb9945f0583bc73062a3799_MITWGS_151S16_LGBTQProp.pdf
 file_size: 109146
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/wgs-151-gender-health-and-society-spring-2016/6633a6510090afe11bfc8b7b3e4e1bba_MITWGS_151S16_Week1.pdf
+file: /courses/wgs-151-gender-health-and-society-spring-2016/6633a6510090afe11bfc8b7b3e4e1bba_MITWGS_151S16_Week1.pdf
 file_size: 643723
 file_type: application/pdf
 learning_resource_types:
